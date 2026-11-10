@@ -1,2 +1,41 @@
-# MIT-8103-advanced-database-portfolio
-MIT 8103 Advanced Database Systems – Practical Database Portfolio for the 2026/2027 Academic Session.
+# MIT 8103 – Advanced Database Systems
+
+## Project Information
+
+- Student: Sochima Ifedikwa
+- Student ID: 301900654
+- Programme: Master of Information Technology
+- Institution: MIVA Open University
+- Academic Session: 2026/2027
+
+## Project Title
+
+University Student Academic Management and Results Portal
+
+## Project Description
+
+This project involves designing, implementing, analysing,
+and optimising an advanced database system for managing
+university academic operations.
+
+## Technologies
+
+- PostgreSQL
+- MongoDB
+- Node.js
+- Express.js
+- Git and GitHub
+
+## Portfolio Activities
+
+1. Database Design and Modelling
+2. Query Processing and Optimisation
+3. Transactions and Concurrency
+4. NoSQL and Advanced Data Models
+5. Distributed and Cloud Database Exercise
+
+## Repository Purpose
+
+This repository contains the practical implementation,
+SQL scripts, database models, screenshots, test results,
+and technical documentation for MIT 8103.
