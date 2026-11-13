@@ -19,9 +19,9 @@ The following environment was used:
 - **Project:** `mit-8103-university-db`
 - **Database:** `university_academic_db`
 - **Development branch:** `activity5-development`
-- **PostgreSQL version:** [Insert actual version]
-- **Cloud region:** [Insert actual region]
-- **Primary branch:** [Insert actual branch name]
+- **PostgreSQL version:** [18]
+- **Cloud region:** [AWS US East 1 (N. Virginia)]
+- **Primary branch:** [main]
 
 The database supports academic records such as students, programmes, courses, enrollments, assessments, and results.
 
