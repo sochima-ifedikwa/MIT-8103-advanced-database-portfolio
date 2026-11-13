@@ -19,9 +19,9 @@ The following environment was used:
 - **Project:** `mit-8103-university-db`
 - **Database:** `university_academic_db`
 - **Development branch:** `activity5-development`
-- **PostgreSQL version:** [18]
-- **Cloud region:** [AWS US East 1 (N. Virginia)]
-- **Primary branch:** [main]
+- **PostgreSQL version:** `18`
+- **Cloud region:** `AWS US East 1 (N. Virginia)`
+- **Primary branch:** `main`
 
 The database supports academic records such as students, programmes, courses, enrollments, assessments, and results.
 
@@ -43,7 +43,7 @@ A table named `activity5_branch_test` was created on the development branch, and
 
 The primary branch was then checked to determine whether the test table existed.
 
-**Observed result:** [Insert actual query output]
+**Observed result:** `false`
 
 This experiment illustrates how independent database branches can be used for development and testing without directly modifying the original branch.
 
@@ -55,13 +55,13 @@ Two PostgreSQL transaction experiments were performed.
 
 A transaction created a test table and inserted a record. The transaction was then rolled back.
 
-**Observed result:** [Insert actual result]
+**Observed result:** `false`
 
 ### Experiment B: COMMIT
 
 A separate transaction created a table and inserted a record before committing.
 
-**Observed result:** [Insert actual result]
+**Observed result:** `Commited Transaction`
 
 The experiments demonstrate the difference between committed and rolled-back database changes.
 
