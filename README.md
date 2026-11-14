@@ -3,7 +3,6 @@
 ## Project Information
 
 - Student: Sochima Ifedikwa
-- Student ID: 301900654
 - Programme: Master of Information Technology
 - Institution: MIVA Open University
 - Academic Session: 2026/2027
@@ -22,8 +21,6 @@ university academic operations.
 
 - PostgreSQL
 - MongoDB
-- Node.js
-- Express.js
 - Git and GitHub
 
 ## Portfolio Activities
